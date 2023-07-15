@@ -1,0 +1,1 @@
+const weblayoutwidth = 600;
